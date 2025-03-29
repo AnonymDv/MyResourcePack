@@ -40,6 +40,13 @@ Original texture pack taken from:
 ### 🔹 Available Ranks
 |ranks|Glyph|
 |---|---|
-|admin   |   |
+|admin   |   
+|builder|   
+|dev|   |
+|developer|   |
+|helper|   |
+|mod|   |
 |player|   |
-|   |   |
+|vip|   |
+|vipplus|   |
+|youtube|   |
