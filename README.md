@@ -35,8 +35,8 @@ Original texture pack taken from:
 - resource-pack-sha1=
 - Fill them with
 ```properties
-resource-pack=getting from realise
-resource-pack-sha1=getting from realise 
+resource-pack=getting from releases
+resource-pack-sha1=getting from releases
 ```
 ---
 
