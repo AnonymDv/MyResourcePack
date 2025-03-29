@@ -17,7 +17,7 @@ Original texture pack taken from:
 |---|---|
 |admin   |    |
 |builder|    |
-|dev|   |    |
+|dev|   |  |
 |developer|   |
 |helper|   |
 |mod|   |
