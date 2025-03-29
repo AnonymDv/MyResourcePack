@@ -17,7 +17,7 @@ Original texture pack taken from:
 |---|---|
 |admin   |    |
 |builder|    |
-|dev|   |     |
+|dev|   |    |
 |developer|   |
 |helper|   |
 |mod|   |
@@ -39,6 +39,4 @@ resource-pack=https://github.com/AnonymDv/MyResourcePack/blob/main/Rank-Luckperm
 resource-pack-sha1=988604ccc96c4fcc1a9d4dcdeddd8b31ab90e02b
 ```
 ---
-
-### 🔹 Available Ranks
 
