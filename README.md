@@ -13,16 +13,18 @@ Original texture pack taken from:
 ---
 
 ### 🔹 Included Ranks (10 total):  
-- admin  
-- builder  
-- dev  
-- developer  
-- helper  
-- mod  
-- player  
-- vip  
-- vipplus  
-- youtube  
+|ranks|Glyph|
+|---|---|
+|admin   |    |
+|builder|    |
+|dev|   |     |
+|developer|   |
+|helper|   |
+|mod|   |
+|player|   |
+|vip|   |
+|vipplus|   |
+|youtube|   |
 
 ---
 
@@ -39,15 +41,4 @@ resource-pack-sha1=988604ccc96c4fcc1a9d4dcdeddd8b31ab90e02b
 ---
 
 ### 🔹 Available Ranks
-|ranks|Glyph|
-|---|---|
-|admin   |    |
-|builder|    |
-|dev|   |     |
-|developer|   |
-|helper|   |
-|mod|   |
-|player|   |
-|vip|   |
-|vipplus|   |
-|youtube|   |
+
