@@ -1,4 +1,4 @@
-# MyResourcePack
+# Rank-Luckperms-Java
 
 ## AnonymDv  
 **Last updated**: 1 minute ago  
