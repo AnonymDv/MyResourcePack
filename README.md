@@ -35,7 +35,7 @@ Original texture pack taken from:
 - resource-pack-sha1=
 - Fill them with
 ```properties
-resource-pack=https://github.com/AnonymDv/MyResourcePack/blob/main/Rank-Luckperms-Java.zip
+resource-pack=getting from realise
 resource-pack-sha1=getting from realise 
 ```
 ---
