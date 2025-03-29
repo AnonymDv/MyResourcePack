@@ -25,3 +25,12 @@ Original texture pack taken from:
 - youtube  
 
 ---
+
+### 🔹 How To Use
+- Go to your server and go to server.properties
+- when server.properties go to
+- resource-pack=
+- resource-pack-sha1=
+- Fill them with
+- resource-pack=
+- resource-pack-sha1=988604ccc96c4fcc1a9d4dcdeddd8b31ab90e02b
