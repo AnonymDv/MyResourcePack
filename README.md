@@ -6,7 +6,12 @@
 ---
 
 ### 🔹 About  
-This resource pack contains custom textures for LuckPerms ranks/groups.  
+**LuckPerms Rank Icons Resource Pack**  
+This resource pack replaces default Minecraft player nameplates with custom rank icons/prefixes for LuckPerms ranks. It includes visual indicators for:
+
+- **Staff Ranks:** ADMIN, MOD, HELPER, BUILDER, DEVELOPER  
+- **Special Ranks:** VIF (VIP), YOUTUBE  
+- **Default:** PLAYER  
 Original texture pack taken from:  
 (https://www.spigotmc.org/resources/ranks-betterranks-with-custom-textures-for-itemsadder.84852/)  
 
